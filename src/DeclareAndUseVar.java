@@ -7,10 +7,10 @@ public class DeclareAndUseVar {
         char c = 'a';
         String s = "Hà Nội";
         System.out.println("i = " + i);
-        System.out.println("i = " + f);
-        System.out.println("i = " + d);
-        System.out.println("i = " + b);
-        System.out.println("i = " + c);
-        System.out.println("i = " + s);
+        System.out.println("f = " + f);
+        System.out.println("d = " + d);
+        System.out.println("b = " + b);
+        System.out.println("c = " + c);
+        System.out.println("s = " + s);
     }
 }
